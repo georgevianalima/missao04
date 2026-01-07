@@ -1,3 +1,7 @@
+# <p align="center">
+	<img src="assets/preview.png" alt="Preview" width="720" />
+</p>
+
 # 🚀 Missão do Dia: Validação Simples de Formulário
 
 Este projeto tem como objetivo implementar uma **validação simples de formulário** na seção de contato, evitando o envio de dados incompletos.
