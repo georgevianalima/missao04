@@ -1,6 +1,5 @@
-# <p align="center">
-	<img src="assets/preview.png" alt="Preview" width="720" />
-</p>
+
+![Preview](assets/preview.png)
 
 # 🚀 Missão do Dia: Validação Simples de Formulário
 
